@@ -12,5 +12,5 @@ For this task, I will be creating a Python script that scrapes course info from 
         
         P.S: Comments added to courseraScrap.py file for better understanding
 
-Kind Regards
+Kind Regards,
 Emin Resul Tolu
