@@ -27,7 +27,7 @@ from bs4 import BeautifulSoup
 
 #Get target_url and parse it's html
 def get_data_from_url(target_url):
-    response_data = requests.get(target_url,timeout=3)
+    response_data = requests.get(target_url)
     return BeautifulSoup(response_data.text, 'html.parser')
 
 def get_data(request, category):
