@@ -6,6 +6,8 @@ For this task, I will be creating a Python script that scrapes course info from 
                 3- Activate your environment with => env/Scripts/activate (for Windows)
                 4- Install requirements for packages => pip install -r requirements.txt
                 5- To run this project => python manage.py runserver
+                6- To see working page, open your web browser and paste => http://127.0.0.1:8000/ 
+                or  left click to url "Starting development server at http://127.0.0.1:8000/"
 
 
         In this project, I followed these steps;
