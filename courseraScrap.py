@@ -50,7 +50,7 @@ def get_data(request, category):
         # In Courses:
             course_data = get_data_from_url('https://www.coursera.org' + url['href'])
             # time.sleep is for waiting in all scraping steps
-            time.sleep(3)       
+            time.sleep(1)       
             # Scrap required data from courses
             csv.write('"' + \
                 # Course Name:
