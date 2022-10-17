@@ -11,6 +11,7 @@ For this task, I will be creating a Python script that scrapes course info from 
                 or  left click to url "Starting development server at http://127.0.0.1:8000/"
 
         P.S: You can check my codes while running project in "courseraScrap.py"
+        P.S: Comments added to courseraScrap.py file for better understanding
 
         In this project, I followed these steps to create project;
                 1- Creating environment with => python -m venv env
@@ -22,7 +23,5 @@ For this task, I will be creating a Python script that scrapes course info from 
                 7- Creating courseraScrap.py file to write our Scraping Codes
                 8- Static file is for CSV files which we will download.
         
-        P.S: Comments added to courseraScrap.py file for better understanding
-
 Kind Regards,
 Emin Resul Tolu
