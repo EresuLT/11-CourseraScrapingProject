@@ -12,7 +12,7 @@ For this task, I will be creating a Python script that scrapes course info from 
 
         P.S: You can check my codes while running project in "courseraScrap.py"
 
-        In this project, I followed these steps;
+        In this project, I followed these steps to create project;
                 1- Creating environment with => python -m venv env
                 2- Activating env with => env/Scripts/activate (for Windows)
                 3- Installing Django with => pip install django
