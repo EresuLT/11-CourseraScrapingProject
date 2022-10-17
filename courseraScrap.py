@@ -23,6 +23,7 @@ def home(request):
 # ------------- GET DATA FUNCTION ---------------
 
 import requests
+import time
 from bs4 import BeautifulSoup
 
 #Get target_url and parse it's html
@@ -48,6 +49,7 @@ def get_data(request, category):
         if url['href'].startswith('/learn'):
         # In Courses:
             course_data = get_data_from_url('https://www.coursera.org' + url['href'])
+            time.sleep(5)            
             # Scrap required data from courses
             csv.write('"' + \
                 # Course Name:
