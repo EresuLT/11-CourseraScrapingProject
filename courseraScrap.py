@@ -49,7 +49,8 @@ def get_data(request, category):
         if url['href'].startswith('/learn'):
         # In Courses:
             course_data = get_data_from_url('https://www.coursera.org' + url['href'])
-            time.sleep(5)            
+            # time.sleep is for waiting in all scraping steps
+            time.sleep(3)       
             # Scrap required data from courses
             csv.write('"' + \
                 # Course Name:

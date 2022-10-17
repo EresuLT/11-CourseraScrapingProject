@@ -1,6 +1,14 @@
 For this task, I will be creating a Python script that scrapes course info from coursera.org
+        
+        To run this project, you should follow these steps;
+                1- Download or pull this repo and open with VSCode
+                2- Create environment with => python -m venv env
+                3- Activate your environment with => env/Scripts/activate (for Windows)
+                4- Install requirements for packages => pip install -r requirements.txt
+                5- To run this project => python manage.py runserver
 
-        In this project;
+
+        In this project, I followed these steps;
                 1- Creating environment with => python -m venv env
                 2- Activating env with => env/Scripts/activate (for Windows)
                 3- Installing Django with => pip install django
