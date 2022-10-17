@@ -10,6 +10,8 @@ For this task, I will be creating a Python script that scrapes course info from 
                 7- To see working page, open your web browser and paste => http://127.0.0.1:8000/ 
                 or  left click to url "Starting development server at http://127.0.0.1:8000/"
 
+        P.S: You can check my codes while running project in "courseraScrap.py"
+
         In this project, I followed these steps;
                 1- Creating environment with => python -m venv env
                 2- Activating env with => env/Scripts/activate (for Windows)
