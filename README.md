@@ -27,5 +27,6 @@ Outcome:
                 7- Creating courseraScrap.py file to write our Scraping Codes
                 8- Static file is for CSV files which we will download.
         
+        
 Kind Regards,
 Emin Resul Tolu
