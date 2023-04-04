@@ -1,5 +1,6 @@
 For this task, I will be creating a Python script that scrapes course info from coursera.org
         
+        
         To run this project, you should follow these steps;
                 1- Download or pull this repo and open with VSCode
                 2- Right click on file and select "open in integrated Terminal"
