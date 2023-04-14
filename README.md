@@ -14,7 +14,6 @@ For this task, I will be creating a Python script that scrapes course info from 
         P.S: You can check my codes while running project in "courseraScrap.txt" or "courseraScrap.py"
         P.S: Comments added to "courseraScrap.py" file for better understanding
 
-
 Outcome:
         ![WebScrape Snapshot](WebScrape.gif)        
         In this project, I followed these steps to create project;
